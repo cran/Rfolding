@@ -1,0 +1,17 @@
+2c201ca709bca872da5a2eec453c3ff8 *DESCRIPTION
+620b076fd9442e5689605f589343bc68 *NAMESPACE
+25f781de717754e2ecb5d28f055398c1 *R/fold.R
+c0f206f276b86c80e9b762be32de04ec *build/vignette.rds
+80d1fdb9e9bf28d08ae4512f39c1a6ef *inst/doc/internals.R
+1a317d884995bedbc3374067ebdb8feb *inst/doc/internals.Rmd
+36f1599b2524aa613c0636febb6092fe *inst/doc/internals.html
+ff007d9424884ed157f094d5158f9ea7 *man/folding.ratio.Rd
+803ab3257b5f4913d9ec37145e2fe7ca *man/folding.statistics.Rd
+5b6074b14d81693655086198ceb96b55 *man/folding.test.Rd
+bb96319db0870b05fa11a1680a5815bb *man/folding.test.bound.Rd
+05c5cb5e867c21e7d744e7946000e756 *man/folding.test.pvalue.Rd
+d0b9a291d986d748f49065706c15ac83 *man/pivot.approx.Rd
+b6b77f37235964f82828c3af12f26c5c *vignettes/bibliography.bib
+1a317d884995bedbc3374067ebdb8feb *vignettes/internals.Rmd
+ae497093d3024eaa1e67033fe80a5780 *vignettes/phi.pdf
+04a2e8d28257b4c8ff5889d0143a39ae *vignettes/phi.png
